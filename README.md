@@ -12,4 +12,4 @@ Technologies Used
 - CSS3
 - JavaScript
 
-Here you can play:-
+Here you can play:- https://serene-alfajores-edd40b.netlify.app/
